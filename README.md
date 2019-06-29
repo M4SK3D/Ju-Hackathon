@@ -1,2 +1,2 @@
 # Ju-Hackathon
-This repository contains relavant materials for JU Hackathon.
+This repository contains the additional materials required for JU Hackathon.
